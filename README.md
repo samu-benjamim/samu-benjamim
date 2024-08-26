@@ -12,5 +12,5 @@ Bem-vindo ao meu perfil do GitHub! Sou um Arquiteto e Urbanista cursando Anális
 ## 🛠️ Tecnologias & Ferramentas
 
 - **Linguagens:** Python
-- **Ferramentas de Desenvolvimento:** [VSCode, Git, etc.]
+- **Ferramentas de Desenvolvimento:** VSCode, Git, etc.
 - **Outros:** Linux

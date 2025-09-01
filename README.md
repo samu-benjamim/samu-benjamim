@@ -17,9 +17,9 @@ Aqui você encontrará **projetos pessoais**, onde compartilho minha evolução 
 
 ## 🛠️ Tecnologias & Ferramentas  
 
-- **Linguagens:** Python, C#, JavaScript (básico), SQL  
+- **Linguagens:** Python, C#, JavaScript, SQL  
 - **Front-end:** HTML, CSS, React  
-- **Back-end:** .NET  
+- **Back-end:** Node.js e .NET  
 - **Ferramentas de Desenvolvimento:** Git, GitHub, VS Code  
 - **Outros:** Linux, Metodologias Ágeis (Scrum, Kanban)  
 

@@ -8,7 +8,7 @@ Aqui você encontrará **projetos pessoais**, onde compartilho minha evolução 
 
 ## 🚀 Sobre Mim  
 
-- 🌱 Atualmente estudando **React**, **C#** e **.NET**  
+- 🌱 Atualmente estudando **React** e **Nest** 
 - 👯 Aberto a colaborar em projetos acadêmicos, pessoais e open-source  
 - 📫 Contato: **dev.samuel.mendes@gmail.com**  
 - ⚡ Curiosidade: Adoro resolver desafios lógicos — inclusive sou viciado em **Sudoku**  
@@ -17,11 +17,11 @@ Aqui você encontrará **projetos pessoais**, onde compartilho minha evolução 
 
 ## 🛠️ Tecnologias & Ferramentas  
 
-- **Linguagens:** Python, C#, JavaScript, SQL  
+- **Linguagens:** Python, C#, JavaScript  
 - **Front-end:** HTML, CSS, React  
 - **Back-end:** Node.js e .NET  
 - **Ferramentas de Desenvolvimento:** Git, GitHub, VS Code  
-- **Outros:** Linux, Metodologias Ágeis (Scrum, Kanban)  
+- **Outros:** SQL, Linux, Metodologias Ágeis (Scrum, Kanban)  
 
 ---
 

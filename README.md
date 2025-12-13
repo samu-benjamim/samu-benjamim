@@ -8,7 +8,7 @@ Aqui você encontrará **projetos pessoais**, onde compartilho minha evolução 
 
 ## 🚀 Sobre Mim  
 
-- 🌱 Atualmente estudando **React** e **Nest** 
+- 🌱 Atualmente estudando **Java** e **AWS** 
 - 👯 Aberto a colaborar em projetos acadêmicos, pessoais e open-source  
 - 📫 Contato: **dev.samuel.mendes@gmail.com**  
 - ⚡ Curiosidade: Adoro resolver desafios lógicos — inclusive sou viciado em **Sudoku**  

@@ -1,31 +1,74 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Samuel+Benjamim!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)<br>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e sempre em busca de criar soluções criativas e eficientes através da programação.  
+Sou **desenvolvedor júnior em formação**, estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **back-end** e forte interesse em **lógica, arquitetura de software e resolução de problemas**.
 
-Aqui você encontrará **projetos pessoais**, onde compartilho minha evolução e práticas no desenvolvimento de software.  
+Gosto de entender **o porquê das coisas**, não apenas fazer funcionar.
 
----
 
-## 🚀 Sobre Mim  
 
-- 🌱 Atualmente estudando **Java** e **AWS** 
-- 👯 Aberto a colaborar em projetos acadêmicos, pessoais e open-source  
-- 📫 Contato: **dev.samuel.mendes@gmail.com**  
-- ⚡ Curiosidade: Adoro resolver desafios lógicos — inclusive sou viciado em **Sudoku**  
+## 🎯 Objetivo de Carreira  
 
----
+Busco oportunidade como **estagiário ou desenvolvedor júnior**, onde eu possa evoluir tecnicamente, contribuir com código bem estruturado e aprender em ambientes colaborativos.
 
-## 🛠️ Tecnologias & Ferramentas  
 
-- **Linguagens:** Python, TypeScript, JavaScript  
-- **Front-end:** HTML, CSS, React  
-- **Back-end:** Node.js e .NET  
-- **Ferramentas de Desenvolvimento:** Git, GitHub, VS Code  
-- **Outros:** SQL, Linux, Metodologias Ágeis (Scrum, Kanban)  
+## 🛠️ Stack Principal  
 
----
+**Back-end**
+- Node.js (TypeScript)
+- Python
+- Java  
 
+**Outros Conhecimentos**
+- APIs REST
+- SQL (Postgre e MySQL)
+- Git & GitHub
+- Linux
+- Conceitos de Clean Code e organização de domínio
+- Front-end (HTML, CSS e React)
+
+
+## 🚀 Projeto em Destaque  
+
+### 🧙 Fantasia Planner — API Gamificada  
+
+API RESTful desenvolvida em **Node.js + TypeScript**, voltada para **planejamento pessoal com mecânicas de gamificação**.
+
+**Funcionalidades principais:**
+- Gerenciamento de usuários
+- Sistema de missões (quests)
+- Conquistas (achievements)
+- Ranking gamificado
+- Arquitetura pensada para crescimento e manutenção
+
+📌 Projeto criado com foco em **boas práticas, organização de camadas e regras de negócio claras**.
+
+
+## 🧠 Diferenciais  
+
+- Forte interesse por **lógica e puzzles**
+- Facilidade em abstrair regras de negócio
+- Perfil analítico, curioso e orientado a aprendizado contínuo
+
+
+## 📫 Contato  
+
+- Email: **dev.samuel.mendes@gmail.com**  
+- GitHub: [github.com/seu-usuario](#)
+  
 ## 📊 Estatísticas do GitHub  
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=samu-benjamim&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
+  />
 
- ![samu-benjamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=samu-benjamim&count_private=true&show_icons=true&theme=radical&border_color=D93A7C)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samu-benjamim&theme=radical&border_color=D93A7C&layout=compact)](https://github.com/fritzisabelle/github-readme-stats)
+  <img 
+    align="left"
+    alt="Top Languages"
+    height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samu-benjamim&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+  />
+</p>

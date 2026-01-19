@@ -53,7 +53,7 @@ API RESTful desenvolvida em **Node.js + TypeScript**, voltada para **planejament
 ## 📫 Contato  
 
 - Email: **dev.samuel.mendes@gmail.com**  
-- GitHub: [github.com/seu-usuario](#)
+- GitHub: [github.com/samu-benjamim](#)
   
 ## 📊 Estatísticas do GitHub  
 <p>

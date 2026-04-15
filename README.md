@@ -16,7 +16,8 @@ Busco oportunidade como **estagiário ou desenvolvedor júnior**, onde eu possa 
 **Back-end**
 - Node.js (TypeScript)
 - Python
-- Java  
+- Java
+- C#
 
 **Outros Conhecimentos**
 - APIs REST
@@ -24,7 +25,7 @@ Busco oportunidade como **estagiário ou desenvolvedor júnior**, onde eu possa 
 - Git & GitHub
 - Linux
 - Conceitos de Clean Code e organização de domínio
-- Front-end (HTML, CSS e React)
+- Front-end (HTML, CSS, React e Angular)
 
 
 ## 🚀 Projeto em Destaque  

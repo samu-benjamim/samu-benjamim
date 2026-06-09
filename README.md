@@ -1,17 +1,21 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Samuel+Benjamim!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)<br>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Samuel+Benjamim!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-Sou **desenvolvedor júnior em formação**, estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **back-end** e forte interesse em **lógica, arquitetura de software e resolução de problemas**.
+Sou **desenvolvedor júnior em formação**, estudante de **Engenharia de Software**,
+com foco em **back-end** e forte interesse em **cloud, arquitetura de software
+e resolução de problemas**.
 
 Gosto de entender **o porquê das coisas**, não apenas fazer funcionar.
 
+---
 
+## 🎯 Objetivo de Carreira
+Busco oportunidade como **estagiário ou desenvolvedor júnior**, onde eu possa
+evoluir tecnicamente, contribuir com código bem estruturado e aprender em
+ambientes colaborativos.
 
-## 🎯 Objetivo de Carreira  
+---
 
-Busco oportunidade como **estagiário ou desenvolvedor júnior**, onde eu possa evoluir tecnicamente, contribuir com código bem estruturado e aprender em ambientes colaborativos.
-
-
-## 🛠️ Stack Principal  
+## 🛠️ Stack Principal
 
 **Back-end**
 - Node.js (TypeScript)
@@ -19,20 +23,38 @@ Busco oportunidade como **estagiário ou desenvolvedor júnior**, onde eu possa 
 - Java
 - C#
 
+**Cloud & DevOps**
+- AWS (EC2, Lambda, S3, RDS, DynamoDB, VPC, API Gateway, CloudFormation)
+- Serverless Architecture
+- Application Networking
+
 **Outros Conhecimentos**
 - APIs REST
-- SQL (Postgre e MySQL)
+- SQL (PostgreSQL e MySQL)
 - Git & GitHub
 - Linux
 - Conceitos de Clean Code e organização de domínio
 - Front-end (HTML, CSS, React e Angular)
 
+---
 
-## 🚀 Projeto em Destaque  
+## 🏅 Certificações
 
-### 🧙 Fantasia Planner — API Gamificada  
+| Certificação | Emissor |
+|---|---|
+| AWS Certified Cloud Practitioner | Amazon Web Services |
+| AWS re/Start Graduate | Amazon Web Services |
+| AWS Application Networking Demonstrated | Amazon Web Services |
+| AWS Serverless Demonstrated | Amazon Web Services |
+| Python Essentials 1 | Cisco & OpenEDG Python Institute |
 
-API RESTful desenvolvida em **Node.js + TypeScript**, voltada para **planejamento pessoal com mecânicas de gamificação**.
+---
+
+## 🚀 Projeto em Destaque
+
+### 🧙 Fantasia Planner — API Gamificada
+API RESTful desenvolvida em **Node.js + TypeScript**, voltada para
+**planejamento pessoal com mecânicas de gamificação**.
 
 **Funcionalidades principais:**
 - Gerenciamento de usuários
@@ -41,20 +63,22 @@ API RESTful desenvolvida em **Node.js + TypeScript**, voltada para **planejament
 - Ranking gamificado
 - Arquitetura pensada para crescimento e manutenção
 
-📌 Projeto criado com foco em **boas práticas, organização de camadas e regras de negócio claras**.
+📌 Projeto criado com foco em **boas práticas, organização de camadas
+e regras de negócio claras**.
 
+---
 
-## 🧠 Diferenciais  
-
+## 🧠 Diferenciais
+- 4 certificações AWS ativas
 - Forte interesse por **lógica e puzzles**
 - Facilidade em abstrair regras de negócio
 - Perfil analítico, curioso e orientado a aprendizado contínuo
 
+---
 
-## 📫 Contato  
-
-- Email: **dev.samuel.mendes@gmail.com**  
-- GitHub: [github.com/samu-benjamim](#)
+## 📫 Contato
+- Email: **dev.samuel.mendes@gmail.com**
+- LinkedIn: [linkedin.com/in/dev-samuel-santos](https://www.linkedin.com/in/dev-samuel-santos/)
   
 ## 📊 Estatísticas do GitHub  
 <p>

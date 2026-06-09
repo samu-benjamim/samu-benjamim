@@ -44,8 +44,6 @@ ambientes colaborativos.
 |---|---|
 | AWS Certified Cloud Practitioner | Amazon Web Services |
 | AWS re/Start Graduate | Amazon Web Services |
-| AWS Application Networking Demonstrated | Amazon Web Services |
-| AWS Serverless Demonstrated | Amazon Web Services |
 | Python Essentials 1 | Cisco & OpenEDG Python Institute |
 
 ---
